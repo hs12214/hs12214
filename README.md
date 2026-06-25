@@ -1,44 +1,57 @@
-<p align="center">
-  <img src="Github Banner 2.png" width="100%" alt="Banner"/>
+<div align="center">
+
+# Harshit Sharma
+
+**Computer Science Engineering Undergraduate**
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1500&color=58A6FF&center=true&vCenter=true&width=550&lines=Artificial+Intelligence+%26+Deep+Learning;Computer+Vision+%26+Mathematical+Modeling;Building+Robust%2C+Scalable+Software+Systems" alt="Typing Subtitle" />
+</a>
+
+<p>
+  <a href="mailto:hsharma6002@gmail.com"><img src="https://img.shields.io/badge/Email-24292E?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/harshit-sharma-4a167237b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/hs12214"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://leetcode.com/hs12214"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://hackerrank.com/hs12214"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black" alt="HackerRank"/></a>
 </p>
 
-## <h1 align="center">Hi 👋, I'm Harshit Sharma</h1>
-### <h3 align="center">A Computer Science undergrad from India, diving into AI & Machine Learning</h3>
+</div>
 
 ---
 
-## About Me
-### I’m a Computer Science undergrad, passionate about Artificial Intelligence and Machine Learning.  
-### Curiosity, consistency, and focus drive my journey — I believe in learning deeply and building real-world applications.
+## About 
+
+I am a Computer Science undergraduate based in India, focusing on machine learning systems and applied computer vision. My primary interest lies in translating foundational model architectures into practical, low-latency software applications.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Areas of Interest</b><br/>
+      <sub>
+      • Real-Time Computer Vision<br/>
+      • Assistive & Edge AI Systems<br/>
+      • Applied Deep Learning
+      </sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>Working Philosophy</b><br/>
+      <sub>
+      • First-principles problem solving<br/>
+      • Prioritizing software reliability<br/>
+      • Consistent, incremental iteration
+      </sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## What I Value
-### - Deep focus over distractions  
-### - Learning over shortcuts  
-### - Progress over perfection  
+## Technical Skills
 
-> *“Solitude sharpens clarity. Consistency builds mastery.”*
-
----
-
-## Reach Me
-### **Email:** hsharma6002@gmail.com  
-
----
-
-## Connect with Me
-<p align="left">
-<a href="https://github.com/whisperinbinary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harshit-sharma-4a167237b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://hackerrank.com/whisperinbinary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
-<a href="https://leetcode.com/whisperinbinary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-</p>
-
----
-
-## Languages & Tools
-<p align="left">
+<div align="center">
+  <b>Core Languages & Python AI Ecosystem</b><br/>
+  <p align="center">
   <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/>
@@ -55,19 +68,55 @@
   <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/>
 </p>
+<br/>
+
+---
+<div align="left">
+  
+## Featured Real-World Projects
+
+### 1. [SignVise](https://github.com/hs12214/SignVise)
+An integrated machine learning platform transforming device cameras into hands-free assistive interfaces for emergency alerts, virtual cursor navigation, and gamified ASL education.
+
+```mermaid
+graph LR
+    A[Webcam Feed] --> B[MediaPipe Hand Landmarks]
+    B --> C{Gesture Engine}
+    C -->|Sustained SOS| D[Twilio SMS + Geolocation]
+    C -->|Navigation| E[Hands-Free Virtual Cursor]
+    C -->|Education| F[Gamified ASL Feedback]
+```
+
+<br/>
+
+### 2. [Sight X](https://github.com/hs12214)
+An AI-driven real-time visual assistance platform engineered for spatial awareness, intelligent scene analysis, and low-latency auditory guidance.
+
+```mermaid
+graph LR
+    A[Video / Sensor Stream] --> B[Vision Core Engine]
+    B --> C{Scene Comprehension}
+    C -->|Detection| D[Object & Depth Mapping]
+    C -->|Context| E[OCR & Spatial Navigation]
+    D --> F[Real-Time Auditory Output]
+    E --> F
+```
 
 ---
 
-## GitHub Stats
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=whisperinbinary&theme=radical" alt="GitHub streak"/>
-</p>
-
----
+## Activity
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=whisperinbinary&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hs12214&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" height="160" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hs12214&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E" height="160" alt="Top Languages"/>
 </p>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hs12214&label=Views&color=58a6ff&style=flat-square" alt="Profile Views"/>
+</div>
+<br/>
+
+<div align="center">
+  <code>"Solitude sharpens clarity. Consistency builds mastery."</code>
+</div>
 
