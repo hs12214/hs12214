@@ -35,7 +35,7 @@ I am a Computer Science undergraduate based in India, focusing on machine learni
       </sub>
     </td>
     <td width="50%" valign="top">
-      <b>Working Philosophy</b><br/>
+      <b>Working Principles</b><br/>
       <sub>
       • First-principles problem solving<br/>
       • Prioritizing software reliability<br/>
