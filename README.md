@@ -107,16 +107,12 @@ graph LR
 ## Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hs12214&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hs12214&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E" height="160" alt="Top Languages"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=hs12214&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" height="160" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=hs12214&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E" height="160" alt="Top Languages"/>
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hs12214&label=Views&color=58a6ff&style=flat-square" alt="Profile Views"/>
+<code>"Half Human. Half Semicolon.</code>
 </div>
-<br/>
 
-<div align="center">
-  <code>"Solitude sharpens clarity. Consistency builds mastery."</code>
-</div>
 
