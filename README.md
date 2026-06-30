@@ -112,7 +112,7 @@ graph LR
 </p>
 
 <div align="center">
-<code>"Half Human. Half Semicolon.</code>
+<code>Half Human. Half Semicolon.</code>
 </div>
 
 
