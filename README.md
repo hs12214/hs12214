@@ -1,3 +1,5 @@
+![Profile Banner](2.png)
+
 <div align="center">
 
 # Harshit Sharma
@@ -112,7 +114,7 @@ graph LR
 </p>
 
 <div align="center">
-<code>Half Human. Half Semicolon.</code>
+<code>Part Human. Part Semicolon.</code>
 </div>
 
 
