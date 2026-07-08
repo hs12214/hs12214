@@ -1,5 +1,3 @@
-![Profile Banner](2.png)
-
 <div align="center">
 
 # Harshit Sharma
@@ -71,6 +69,12 @@ I am a Computer Science undergraduate based in India, focusing on machine learni
   <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/>
 </p>
 <br/>
+
+---
+<div align="left">
+
+## Resume
+### <a href="https://hs12214.github.io/hs12214/Harshit_Resume.pdf" target="_blank">View and Download my Resume</a>
 
 ---
 <div align="left">
