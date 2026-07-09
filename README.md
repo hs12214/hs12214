@@ -22,7 +22,7 @@
 
 ## About 
 
-I am a Computer Science undergraduate based in India, focusing on machine learning systems and applied computer vision. My primary interest lies in translating foundational model architectures into practical, low-latency software applications. Outside of tech, I am a selective reader & harbour a deep love for outdoors.
+I am a Computer Science undergraduate based in India, focusing on machine learning systems and applied computer vision. My primary interest lies in translating foundational model architectures into practical, low-latency software applications. Outside of tech, I harbour a deep love for outdoors & do selective reading.
 
 <table>
   <tr>
