@@ -113,12 +113,17 @@ graph LR
 ## Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=hs12214&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=hs12214&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E" height="160" alt="Top Languages"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=hs12214&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&include_all_commits=true" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=hs12214&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E" height="165" alt="Top Languages"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hs12214&bg_color=0D1117&color=8B949E&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&hide_border=true" width="90%" alt="GitHub Activity Graph"/>
+</p>
+
+<br/>
 
 <div align="center">
 <code>Part Human. Part Semicolon.</code>
 </div>
-
 
