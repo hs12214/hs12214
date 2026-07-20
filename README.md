@@ -9,7 +9,6 @@
 </a>
 
 <p>
-  <a href="mailto:hsharma6002@gmail.com"><img src="https://img.shields.io/badge/Email-24292E?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://linkedin.com/in/harshit-sharma-4a167237b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/hs12214"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://leetcode.com/hs12214"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
@@ -79,7 +78,7 @@ I am a Computer Science undergraduate based in India, focusing on machine learni
 ---
 <div align="left">
   
-## Real-World Projects
+## Featured Projects
 
 ### 1. [SignVise](https://github.com/hs12214/SignVise)
 An integrated machine learning platform transforming device cameras into hands-free assistive interfaces for emergency alerts, virtual cursor navigation, and gamified ASL education.
