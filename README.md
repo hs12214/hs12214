@@ -21,7 +21,7 @@
 
 ## About 
 
-I am a Computer Science undergraduate based in India, focusing on machine learning systems and applied computer vision. My primary interest lies in translating foundational model architectures into practical, low-latency software applications. Outside of tech, I harbour a sweet spot for outdoor sports & selective reading.
+I am a Computer Science undergraduate based in India, focusing on machine learning systems and applied computer vision. My primary interest lies in translating foundational model architectures into practical, low-latency software applications. I am actively involved in developing a pose estimation SaaS **Motion Voice** focused on low latency browser native hand gesture translation. Outside of tech, I harbour a sweet spot for outdoor sports & selective reading.
 
 <table>
   <tr>
@@ -68,6 +68,18 @@ I am a Computer Science undergraduate based in India, focusing on machine learni
   <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/>
 </p>
 <br/>
+
+---
+<div align="left">
+
+## Organizations & SaaS Ventures
+### [Motion Voice](#)
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=16&duration=2000&pause=1500&color=58A6FF&vCenter=true&width=300&lines=Founder;Core+Developer" alt="Roles" /></a>
+
+**Motion Voice** is an emerging SaaS vision. It focuses on translating hand gestures into text and voice accessibility for empowerment of hearing and speaking impaired individuals. The primary target is to enable low latency browser native hands-free interaction by deploying custom ML pipelines, Open CV and Media pipe pose estimation in Python.
+
+### [LinkedIn](https://www.linkedin.com/company/motionvoicehq)
+### [GitHub](https://github.com/MotionVoiceHQ)
 
 ---
 <div align="left">
