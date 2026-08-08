@@ -121,6 +121,20 @@ graph LR
 
 ---
 
+<br/>
+
+## LeetCode Progress & Problem Solving
+
+<div align="center">  
+  <a href="https://leetcode.com/hs12214">
+    <img src="https://leetcard.jacoblin.cool/hs12214?theme=dark&font=Fira%20Code&bg_color=00000000&font_color=8B949E&title_color=58A6FF&border=0&radius=10" alt="LeetCode Progress" width="500" />
+  </a>
+</div>
+
+<br/>
+
+---
+
 ## Activity
 
 <p align="center">
