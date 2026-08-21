@@ -106,19 +106,32 @@ graph LR
 
 <br/>
 
-### 2. [Sight X](https://github.com/hs12214)
-An AI-driven real-time visual assistance platform engineered for spatial awareness, intelligent scene analysis, and low-latency auditory guidance.
+### 2. [KSP M.A.P.S.](https://github.com/hs12214/Project-KSP-M.A.P.S.)
+A full-stack, ML powered spatial analytics platform designed exclusively for police force with real-time semantic M.O. matching, ST-DBSCAN crime clustering, and XGBoost hotspot prediction.
 
 ```mermaid
-graph LR
-    A[Video / Sensor Stream] --> B[Vision Core Engine]
-    B --> C{Scene Comprehension}
-    C -->|Detection| D[Object & Depth Mapping]
-    C -->|Context| E[OCR & Spatial Navigation]
-    D --> F[Real-Time Auditory Output]
-    E --> F
+flowchart LR
+    A[Raw FIR CSV/Excel] --> B(Ingestion & Normalization)
+    A2[Station Centroids] --> B
+    
+    B --> C[(PostgreSQL + PostGIS / SQLite)]
+    
+    C --> D{AI Intelligence Modules}
+    D -->|Clustering| E[ST-DBSCAN Hotspots]
+    D -->|Risk Prediction| F[XGBoost Forecasting]
+    D -->|Text Linkage| G[TF-IDF M.O. Matcher]
+    
+    E --> H[FastAPI Web Backend Gateway]
+    F --> H
+    G --> H
+    
+    H --> L[React Web Application]
+    H --> I[PyQt6 Desktop Shell]
+    
+    L --> K[ReportLab PDF Export]
+    I --> J[Folium Map View]
+    I --> K
 ```
-
 ---
 
 <br/>
