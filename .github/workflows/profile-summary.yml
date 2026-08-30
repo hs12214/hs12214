@@ -2,18 +2,23 @@ name: Profile Summary Cards
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # runs every 12 hours automatically
-  workflow_dispatch:          
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write        
+      contents: write
+
     steps:
+
+      - uses: actions/checkout@v4
+
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
           USERNAME: hs12214
           BRANCH_NAME: main
-          UTC_OFFSET: 5.5  
+          UTC_OFFSET: 5.5
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
