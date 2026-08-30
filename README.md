@@ -151,25 +151,26 @@ flowchart LR
 ## Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=hs12214&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&include_all_commits=true" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=hs12214&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E" height="165" alt="Top Languages"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=hs12214&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&include_all_commits=true" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=hs12214&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E" height="150" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="./profile-summary-card-output/0-profile-details.svg" width="90%" alt="GitHub Profile Details"/>
+  <img src="https://raw.githubusercontent.com/hs12214/hs12214/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="62%" alt="GitHub Profile Details"/>
 </p>
 
 <p align="center">
-  <img src="./profile-summary-card-output/1-repos-per-language.svg" width="45%" alt="Repos Per Language"/>
-  <img src="./profile-summary-card-output/2-most-commit-language.svg" width="45%" alt="Most Commit Language"/>
+  <img src="https://raw.githubusercontent.com/hs12214/hs12214/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="30%" alt="Repos Per Language"/>
+  <img src="https://raw.githubusercontent.com/hs12214/hs12214/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="30%" alt="Most Commit Language"/>
 </p>
 
 <p align="center">
-  <img src="./profile-summary-card-output/3-stats.svg" width="45%" alt="Stats"/>
-  <img src="./profile-summary-card-output/4-productive-time.svg" width="45%" alt="Productive Time"/>
+  <img src="https://raw.githubusercontent.com/hs12214/hs12214/main/profile-summary-card-output/github_dark/3-stats.svg" width="30%" alt="Stats"/>
+  <img src="https://raw.githubusercontent.com/hs12214/hs12214/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="30%" alt="Productive Time"/>
 </p>
 
 <br/>
+
 
 <div align="center">
 <code>Part Human. Part Semicolon.</code>
