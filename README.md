@@ -156,7 +156,17 @@ flowchart LR
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hs12214&bg_color=0D1117&color=8B949E&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&hide_border=true" width="90%" alt="GitHub Activity Graph"/>
+  <img src="./profile-summary-card-output/0-profile-details.svg" width="90%" alt="GitHub Profile Details"/>
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/1-repos-per-language.svg" width="45%" alt="Repos Per Language"/>
+  <img src="./profile-summary-card-output/2-most-commit-language.svg" width="45%" alt="Most Commit Language"/>
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/3-stats.svg" width="45%" alt="Stats"/>
+  <img src="./profile-summary-card-output/4-productive-time.svg" width="45%" alt="Productive Time"/>
 </p>
 
 <br/>
